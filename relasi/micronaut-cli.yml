@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cindy.buat
+---
+testFramework: junit
+sourceLanguage: java
